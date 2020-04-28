@@ -3,3 +3,7 @@
 const firstFunction = () => {
     return 'hello'
 }
+
+const secondFunction = (a, b) => {
+    return a + b
+}
