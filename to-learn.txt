@@ -1,0 +1,15 @@
+// experiment with
+cherry-pick     - apply the changes introduced by some existing commits
+bisect          - use binary search to find the commit that introduced a bug
+grep            - print lines matching a pattern
+log             - show commit log
+shortlog        - summarize of log
+show            - show various types of objects
+tag             - create, list, delete or verify a tag object signed with GPG
+clean           - remove untracked files from working tree
+stash           - stash the changes in a dirty working directory away
+
+// evaluate difference between
+merge           - join two or more development histories together
+rebase          - reapply commits on top of another base tip
+reset           - reset current HEAD to the specified state
